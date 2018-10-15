@@ -26,7 +26,6 @@
     "@writetome51/arrays-match": "latest"
   },
   "dependencies": {
-    "basic-data-handling": "latest",
     "@writetome51/array-get-head-tail": "latest",
     "@writetome51/array-and-index-validation": "latest"
   }
