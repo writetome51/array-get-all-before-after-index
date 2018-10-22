@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/writetome51/array-get-all-before-after-index#readme",
   "devDependencies": {
-    "@writetome51/arrays-match": "latest"
   },
   "dependencies": {
     "@writetome51/array-get-head-tail": "latest",
