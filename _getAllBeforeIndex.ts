@@ -1,6 +1,6 @@
 import { ifIndexNotNegative_getActionResult } 
 	from '@writetome51/array-and-index-validation/ifIndexNotNegative_getActionResult';
-import { getHead} from '@writetome51/array-get-head-tail/getHead';
+import { getHead} from '@writetome51/array-get-head-tail';
 
 // For this function, the index cannot be negative.
 

@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-get-all-before-after-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "array-handling functions that return data from the array but do not modify the array",
   "main": "",
   "scripts": {
@@ -22,10 +22,9 @@
     "url": "https://github.com/writetome51/array-get-all-before-after-index/issues"
   },
   "homepage": "https://github.com/writetome51/array-get-all-before-after-index#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
-    "@writetome51/array-get-head-tail": "latest",
-    "@writetome51/array-and-index-validation": "latest"
+    "@writetome51/array-get-head-tail": "1.0.3",
+    "@writetome51/array-and-index-validation": "1.0.2"
   }
 }
