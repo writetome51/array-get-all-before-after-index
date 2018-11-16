@@ -1,7 +1,7 @@
 {
   "name": "@writetome51/array-get-all-before-after-index",
   "version": "1.0.1",
-  "description": "array-handling functions that return data from the array but do not modify the array",
+  "description": "Returns all array items after particular index or all array items before particular index",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
