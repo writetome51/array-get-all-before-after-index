@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-get-all-before-after-index",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns all array items after particular index or all array items before particular index",
   "main": "",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/writetome51/array-get-all-before-after-index#readme",
   "devDependencies": {},
   "dependencies": {
-    "@writetome51/array-get-head-tail": "1.0.3",
-    "@writetome51/array-and-index-validation": "1.0.2"
+    "@writetome51/array-get-head-tail": "~1.0.3",
+    "@writetome51/array-and-index-validation": "~1.0.2"
   }
 }
