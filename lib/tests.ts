@@ -1,5 +1,5 @@
-import { _getAllAfterIndex } from './_getAllAfterIndex';
-import { _getAllBeforeIndex } from './_getAllBeforeIndex';
+import { _getAllAfterIndex } from './privy/_getAllAfterIndex';
+import { _getAllBeforeIndex } from './privy/_getAllBeforeIndex';
 
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];

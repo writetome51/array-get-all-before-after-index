@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var _getAllAfterIndex_1 = require("./_getAllAfterIndex");
-var _getAllBeforeIndex_1 = require("./_getAllBeforeIndex");
+var _getAllAfterIndex_1 = require("./privy/_getAllAfterIndex");
+var _getAllBeforeIndex_1 = require("./privy/_getAllBeforeIndex");
 var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // Test 1
 var result = _getAllAfterIndex_1._getAllAfterIndex(0, arr);
