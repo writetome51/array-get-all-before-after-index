@@ -26,6 +26,6 @@
   "devDependencies": {},
   "dependencies": {
     "@writetome51/array-get-head-tail": "~1.0.5",
-    "@writetome51/array-and-index-validation": "~1.0.6"
+    "error-if-index-is-negative": "~1.0.0"
   }
 }
